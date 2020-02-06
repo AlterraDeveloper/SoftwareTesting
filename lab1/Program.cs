@@ -1,16 +1,12 @@
 ﻿using System;
+using SoftwareTesting.lab2;
 
-namespace lab1
+namespace SoftwareTesting
 {
     class Program
     {
         static void Main(string[] args)
         {
-            foreach (var root in Tests.FindRootsOfSquareEquation(6,15,0))
-            {
-                Console.WriteLine(root);
-            }
-            Console.ReadKey();
         }
     }
 }

@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace lab1
+namespace SoftwareTesting.lab1
 {
     [TestFixture]
     public class Tests
