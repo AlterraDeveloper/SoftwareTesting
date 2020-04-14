@@ -53,6 +53,7 @@
     <Compile Include="lab2\Tests.cs" />
     <Compile Include="lab3\Tests.cs" />
     <Compile Include="lab4\Tests.cs" />
+    <Compile Include="lab6\Tests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="lab1\Tests.cs" />
